@@ -11,7 +11,7 @@
     <packaging>jar</packaging>
     <groupId>org.webjars</groupId>
     <artifactId>breeze.js.labs</artifactId>
-    <version>b21c69ce26-SNAPSHOT</version>
+    <version>b21c69ce26</version>
     <name>breeze.js.labs</name>
     <description>WebJar for the breeze.js.labs</description>
     <url>http://webjars.org</url>
@@ -28,7 +28,7 @@
         <url>http://github.com/webjars/breeze.js.labs</url>
         <connection>scm:git:https://github.com/webjars/breeze.js.labs.git</connection>
         <developerConnection>scm:git:https://github.com/webjars/breeze.js.labs.git</developerConnection>
-        <tag>HEAD</tag>
+        <tag>breeze.js.labs-b21c69ce26</tag>
     </scm>
     
     <properties>
